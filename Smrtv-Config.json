@@ -1,10 +1,10 @@
 {
-  "version": 1,
+  "version": 3,
   "app": {
     "name": "SM+ Radio",
     "frequency": "88.5 FM",
     "slogan": "Sistema Michoacano de Radio y Televisión",
-    "defaultSongText": "En vivo desde Michoacán",
+    "defaultSongText": "Sistema Michoacano de Radio y Televisión",
     "defaultProgramText": "Música Continua",
     "liveBadgeText": "EN VIVO",
     "connectingText": "CONECTANDO",
@@ -24,15 +24,17 @@
   },
   "socials": {
     "facebook": "https://www.facebook.com/SistemaMichoacano",
-    "instagram": "https://www.instagram.com/sistema.michoacano",
-    "x": "https://twitter.com/SistemaMich",
-    "tiktok": "https://www.tiktok.com/@sistema.michoacano",
-    "whatsapp": "5210000000000",
-    "whatsappMessage": "Hola SMRTV, los estoy escuchando en 88.5 FM Desde la App",
-    "phone": "+520000000000",
-    "website": "https://sistemamichoacano.tv/radio-fm/",
-    "email": "contacto@smrtv.com",
-    "soundcloud": "https://soundcloud.com/sistemamichoacano"
+    "instagram": "https://instagram.com/sistema.michoacano",
+    "x": "https://x.com/SistemaMich",
+    "tiktok": "https://tiktok.com/@sistema.michoacano",
+    "youtube": "https://youtube.com/Sistema%20Michoacano%20de%20Radio%20y%20Televisi%C3%B3n",
+    "spotify": "https://open.spotify.com/show/1cJ1IkF8YkeHJf5TtSTGWq",
+    "soundcloud": "https://soundcloud.com/sistemamichoacano",
+    "whatsapp": "+524438660901",
+    "whatsappMessage": "Hola SMRTV, los escucho en 88.5 FM Desde La App",
+    "phone": "+524433235067",
+    "website": "https://sistemamichoacano.tv",
+    "email": "contacto@smrtv.com"
   },
   "programs": [
     {
