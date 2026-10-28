@@ -1,9 +1,9 @@
 {
   "version": 1,
   "app": {
-    "name": "SMRTV-FM Git",
+    "name": "SM+ Radio",
     "frequency": "88.5 FM",
-    "slogan": "En vivo desde Michoacán",
+    "slogan": "Sistema Michoacano de Radio y Televisión",
     "defaultSongText": "En vivo desde Michoacán",
     "defaultProgramText": "Música Continua",
     "liveBadgeText": "EN VIVO",
@@ -23,23 +23,23 @@
     "equalizerTop": "#ff4d6d"
   },
   "socials": {
-    "facebook": "https://facebook.com/smrtv",
-    "instagram": "https://instagram.com/smrtv",
-    "x": "https://x.com/smrtv",
-    "tiktok": "https://tiktok.com/@smrtv",
+    "facebook": "https://www.facebook.com/SistemaMichoacano",
+    "instagram": "https://www.instagram.com/sistema.michoacano",
+    "x": "https://twitter.com/SistemaMich",
+    "tiktok": "https://www.tiktok.com/@sistema.michoacano",
     "whatsapp": "5210000000000",
-    "whatsappMessage": "Hola SMRTV, los estoy escuchando en 88.5 FM",
+    "whatsappMessage": "Hola SMRTV, los estoy escuchando en 88.5 FM Desde la App",
     "phone": "+520000000000",
-    "website": "https://smrtv.michoacan.gob.mx",
+    "website": "https://sistemamichoacano.tv/radio-fm/",
     "email": "contacto@smrtv.com",
-    "soundcloud": "https://soundcloud.com/smrtv"
+    "soundcloud": "https://soundcloud.com/sistemamichoacano"
   },
   "programs": [
     {
-      "id": "noticiero-matutino",
-      "name": "Noticiero Matutino",
-      "description": "Las noticias más importantes de Michoacán",
-      "host": "Juan Pérez",
+      "id": "carpe-diem",
+      "name": "Carpe Diem",
+      "description": "Aprovecha el Dia",
+      "host": "Teresa Florian",
       "imageURL": "https://picsum.photos/seed/noticiero/600/600",
       "days": [
         1,
@@ -48,14 +48,14 @@
         4,
         5
       ],
-      "startTime": "07:00",
-      "endTime": "09:00"
+      "startTime": "06:00",
+      "endTime": "06:30"
     },
     {
-      "id": "musica-manana",
-      "name": "Música y Más",
-      "description": "Lo mejor de la música",
-      "host": "Ana García",
+      "id": "cantata",
+      "name": "Cantata Para Un Nuevo Dia",
+      "description": "26 minutos de música sinfónica con los contemporáneos de los famosos",
+      "host": "Damarys Florian",
       "imageURL": "https://picsum.photos/seed/musica/600/600",
       "days": [
         1,
@@ -64,8 +64,8 @@
         4,
         5
       ],
-      "startTime": "09:00",
-      "endTime": "12:00"
+      "startTime": "15:00",
+      "endTime": "15:30"
     },
     {
       "id": "tarde-885",
