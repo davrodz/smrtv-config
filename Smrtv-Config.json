@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "app": {
+    "name": "SMRTV-FM",
+    "frequency": "88.5 FM",
+    "slogan": "En vivo desde Michoacán",
+    "defaultSongText": "En vivo desde Michoacán",
+    "defaultProgramText": "Música Continua",
+    "liveBadgeText": "EN VIVO",
+    "connectingText": "CONECTANDO",
+    "stoppedText": "DETENIDO",
+    "bufferingText": "Buffering...",
+    "offlineText": "Sin conexión",
+    "tapToVinylText": "Toca para ver vinil",
+    "tapToLottieText": "Toca para ver animación",
+    "streamURL": "https://stream.zeno.fm/wum7w9rm4zhvv"
+  },
+  "colors": {
+    "primary": "#720e30",
+    "secondary": "#4a0e22",
+    "tertiary": "#1a050a",
+    "accent": "#ff4d6d",
+    "equalizerTop": "#ff4d6d"
+  },
+  "socials": {
+    "facebook": "https://facebook.com/smrtv",
+    "instagram": "https://instagram.com/smrtv",
+    "x": "https://x.com/smrtv",
+    "tiktok": "https://tiktok.com/@smrtv",
+    "whatsapp": "5210000000000",
+    "whatsappMessage": "Hola SMRTV, los estoy escuchando en 88.5 FM",
+    "phone": "+520000000000",
+    "website": "https://smrtv.michoacan.gob.mx",
+    "email": "contacto@smrtv.com",
+    "soundcloud": "https://soundcloud.com/smrtv"
+  },
+  "programs": [
+    {
+      "id": "noticiero-matutino",
+      "name": "Noticiero Matutino",
+      "description": "Las noticias más importantes de Michoacán",
+      "host": "Juan Pérez",
+      "imageURL": "https://picsum.photos/seed/noticiero/600/600",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "07:00",
+      "endTime": "09:00"
+    },
+    {
+      "id": "musica-manana",
+      "name": "Música y Más",
+      "description": "Lo mejor de la música",
+      "host": "Ana García",
+      "imageURL": "https://picsum.photos/seed/musica/600/600",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "09:00",
+      "endTime": "12:00"
+    },
+    {
+      "id": "tarde-885",
+      "name": "La Tarde en 88.5",
+      "description": "Entrevistas y entretenimiento",
+      "host": "Carlos Ruiz",
+      "imageURL": "https://picsum.photos/seed/tarde/600/600",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00"
+    },
+    {
+      "id": "fin-semana",
+      "name": "Fin de Semana Musical",
+      "description": "Música sin parar",
+      "host": "DJ SMRTV",
+      "imageURL": "https://picsum.photos/seed/fin/600/600",
+      "days": [
+        6,
+        7
+      ],
+      "startTime": "10:00",
+      "endTime": "20:00"
+    }
+  ],
+  "features": {
+    "showBitrate": true,
+    "showSongHistory": true,
+    "sleepTimerOptions": [
+      15,
+      30,
+      60,
+      90
+    ]
+  }
+}
