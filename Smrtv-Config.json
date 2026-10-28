@@ -1,7 +1,7 @@
 {
   "version": 1,
   "app": {
-    "name": "SMRTV-FM",
+    "name": "SMRTV-FM Git",
     "frequency": "88.5 FM",
     "slogan": "En vivo desde Michoacán",
     "defaultSongText": "En vivo desde Michoacán",
