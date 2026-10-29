@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "app": {
     "name": "SM+ Radio",
     "frequency": "88.5 FM",
@@ -795,5 +795,136 @@
       60,
       90
     ]
+  },
+  "strings": {
+    "tabs": {
+      "live": "En Vivo",
+      "programs": "Programas",
+      "contact": "Contacto",
+      "more": "Más"
+    },
+    "player": {
+      "stats": "Stats",
+      "sleep": "Sleep",
+      "history": "Historial",
+      "share": "Compartir",
+      "followUs": "Síguenos",
+      "bitrateTitle": "BITRATE",
+      "bitrateLabel": "Bitrate",
+      "bitrateSubtitle": "Calidad actual",
+      "speedTitle": "VELOCIDAD",
+      "downloadedTitle": "DESCARGADO",
+      "timeTitle": "TIEMPO",
+      "timeLive": "En vivo",
+      "timeStopped": "Detenido",
+      "liveBadge": "LIVE",
+      "nowPlaying": "Reproduciendo ahora",
+      "play": "Reproducir",
+      "stop": "Detener",
+      "tapToSeeStats": "Toca para ver estadísticas",
+      "technicalDetailsTitle": "DETALLES TÉCNICOS",
+      "realAudioLevelTitle": "NIVEL DE AUDIO REAL",
+      "sessionDurationTitle": "TIEMPO EN VIVO",
+      "streamURLLabel": "Stream URL",
+      "bytesTotalLabel": "Bytes totales",
+      "tipText": "💡 128 kbps ≈ 16 KB/s • 1 hora ≈ 57 MB • 8 horas ≈ 460 MB"
+    },
+    "programs": {
+      "title": "Programación",
+      "liveNow": "AL AIRE AHORA",
+      "upNext": "A CONTINUACIÓN",
+      "noPrograms": "Sin programas por el momento",
+      "scheduleTitle": "Horario",
+      "searchPlaceholder": "Buscar programa...",
+      "hostPrefix": "con",
+      "filterAll": "Todos",
+      "daysOfWeek": [
+        "Lun",
+        "Mar",
+        "Mié",
+        "Jue",
+        "Vie",
+        "Sáb",
+        "Dom"
+      ]
+    },
+    "contact": {
+      "title": "Contacto",
+      "subtitle": "Estamos contigo",
+      "description": "¿Tienes una historia, comentario o canción? Escríbenos.",
+      "phoneTitle": "Llamar a cabina",
+      "phoneSubtitle": "En vivo",
+      "callButton": "Llamar ahora",
+      "whatsappTitle": "WhatsApp",
+      "whatsappSubtitle": "Mensaje directo",
+      "emailTitle": "Correo",
+      "emailSubtitle": "Escríbenos",
+      "websiteTitle": "Sitio Web",
+      "websiteSubtitle": "Visítanos",
+      "addressTitle": "Ubicación",
+      "addressValue": "Morelia, Michoacán",
+      "formTitle": "Mándanos un mensaje",
+      "formNamePlaceholder": "Tu nombre",
+      "formMessagePlaceholder": "Tu mensaje...",
+      "formSendButton": "Enviar por WhatsApp"
+    },
+    "history": {
+      "title": "Historial",
+      "emptyTitle": "Sin historial",
+      "emptySubtitle": "Las canciones que escuches aparecerán aquí",
+      "now": "Ahora",
+      "delete": "Borrar",
+      "clearAll": "Borrar todo",
+      "close": "Cerrar"
+    },
+    "sleep": {
+      "title": "Sleep Timer",
+      "subtitle": "Apagado automático",
+      "minutesFormat": "%d minutos",
+      "cancelTimer": "Cancelar timer",
+      "close": "Cerrar",
+      "activeFormat": "Apagado en %d:%02d",
+      "activeShort": "Timer activo"
+    },
+    "stats": {
+      "title": "Estadísticas de Streaming",
+      "bitrateCardTitle": "BITRATE",
+      "bitrateCardSubtitle": "Calidad actual",
+      "speedCardTitle": "VELOCIDAD",
+      "downloadedCardTitle": "DESCARGADO",
+      "timeCardTitle": "TIEMPO",
+      "technicalDetailsTitle": "DETALLES TÉCNICOS",
+      "audioLevelCardTitle": "NIVEL DE AUDIO REAL",
+      "tapActive": "MTAudioProcessingTap activo",
+      "noSignal": "Sin señal",
+      "close": "Cerrar"
+    },
+    "share": {
+      "title": "Compartir",
+      "subject": "SMRTV 88.5 FM",
+      "message": "Escucha SMRTV 88.5 FM en vivo",
+      "withProgramTemplate": "Estoy escuchando %1$@ en %2$@ 88.5 FM: %3$@ - %4$@",
+      "withoutProgramTemplate": "Estoy escuchando %1$@ en %2$@ 88.5 FM - %3$@"
+    },
+    "errors": {
+      "noConnection": "Sin conexión",
+      "timeout": "Tiempo de espera agotado",
+      "failedToReconnect": "No se pudo reconectar",
+      "reconnectingFormat": "Reconectando... %d/5",
+      "headphonesDisconnected": "Audífonos desconectados",
+      "buffering": "Buffering...",
+      "offline": "Estás sin internet"
+    },
+    "general": {
+      "close": "Cerrar",
+      "cancel": "Cancelar",
+      "ok": "OK",
+      "delete": "Borrar",
+      "save": "Guardar",
+      "share": "Compartir",
+      "loading": "Cargando...",
+      "retry": "Reintentar",
+      "copied": "Copiado"
+    }
   }
 }
