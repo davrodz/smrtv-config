@@ -58,7 +58,7 @@
       "name": "La Puerta Mágica",
       "description": "La Puerta Mágica con Adriana Cervantes",
       "host": "Adriana Cervantes",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/la-puerta-magica-matutino.jpg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/la-puerta-magica.jpg",
       "days": [
         1,
         2,
@@ -116,7 +116,7 @@
       "name": "La Puerta Mágica",
       "description": "La Puerta Mágica - sábado",
       "host": "Adriana Cervantes",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/la-puerta-magica-sab.jpg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/la-puerta-magica.jpg",
       "days": [
         6
       ],
@@ -512,7 +512,7 @@
       "name": "El Estanquillo",
       "description": "El Estanquillo con Edith Jiménez - vespertino",
       "host": "Edith Jiménez",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/el-estanquillo-vesp.jpg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/el-estanquillo.jpg",
       "days": [
         3
       ],
@@ -584,7 +584,7 @@
       "name": "Pastel",
       "description": "Pastel con Roberto Castro (Repetición)",
       "host": "Roberto Castro (Repetición)",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/pastel-roberto-rep.jpg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/pastel-roberto.jpg",
       "days": [
         7
       ],
@@ -605,23 +605,11 @@
       "endTime": "20:00"
     },
     {
-      "id": "capsula-rtc-10min",
-      "name": "Cápsula RTC 10 MIN",
-      "description": "Cápsula RTC 10 MIN",
-      "host": "",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/capsula-rtc-10min.jpg",
-      "days": [
-        6
-      ],
-      "startTime": "18:30",
-      "endTime": "18:40"
-    },
-    {
       "id": "fusion-repeticion",
       "name": "Fusión (Repetición)",
       "description": "Fusión con Enrique Vázquez (Repetición)",
       "host": "Enrique Vázquez",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/fusion-repeticion.jpg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/fusion.jpg",
       "days": [
         6
       ],
@@ -669,7 +657,7 @@
       "name": "Variaciones (Repetición)",
       "description": "Variaciones (Repetición) con Yazmín David",
       "host": "Yazmín David",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/variaciones-repeticion.jpg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/variaciones.jpg",
       "days": [
         7
       ],
@@ -681,7 +669,7 @@
       "name": "Una Historia Una Canción (Repetición)",
       "description": "Una Historia Una Canción (Repetición)",
       "host": "",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/una-historia-cancion-rep.jpg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/una-historia-cancion.jpg",
       "days": [
         4
       ],
