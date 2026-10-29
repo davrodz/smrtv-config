@@ -38,11 +38,65 @@
   },
   "programs": [
     {
-      "id": "carpe-diem",
-      "name": "Carpe Diem",
-      "description": "Aprovecha el Dia",
-      "host": "Teresa Florian",
-      "imageURL": "https://picsum.photos/seed/noticiero/600/600",
+      "id": "cierre-transmision",
+      "name": "Cierre de Transmisión - Himno Nacional Mexicano",
+      "description": "Cierre de transmisión - Himno Nacional",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/cierre-transmision/600/600",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startTime": "00:00",
+      "endTime": "00:03"
+    },
+    {
+      "id": "musica-madrugada",
+      "name": "Música Continua",
+      "description": "Música continua madrugada",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/musica-madrugada/600/600",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startTime": "00:03",
+      "endTime": "06:00"
+    },
+    {
+      "id": "himno-nacional",
+      "name": "Himno Nacional Mexicano",
+      "description": "Himno Nacional Mexicano",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/himno-nacional/600/600",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startTime": "06:00",
+      "endTime": "06:02"
+    },
+    {
+      "id": "capsula-rtc-5min-mat",
+      "name": "Cápsula RTC 5 MIN",
+      "description": "Cápsula informativa RTC",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/capsula-rtc-5min-mat/600/600",
       "days": [
         1,
         2,
@@ -50,15 +104,359 @@
         4,
         5
       ],
-      "startTime": "06:00",
+      "startTime": "06:02",
+      "endTime": "06:07"
+    },
+    {
+      "id": "carpe-diem-matutino",
+      "name": "Carpe Diem",
+      "description": "Carpe Diem con Teresa de Jesús López Florián",
+      "host": "Teresa de Jesús López Florián",
+      "imageURL": "https://picsum.photos/seed/carpe-diem/600/600",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "06:07",
       "endTime": "06:30"
     },
     {
-      "id": "cantata",
-      "name": "Cantata Para Un Nuevo Dia",
-      "description": "26 minutos de música sinfónica con los contemporáneos de los famosos",
-      "host": "Damarys Florian",
-      "imageURL": "https://picsum.photos/seed/musica/600/600",
+      "id": "la-puerta-magica-matutino",
+      "name": "La Puerta Mágica",
+      "description": "La Puerta Mágica con Adriana Cervantes",
+      "host": "Adriana Cervantes",
+      "imageURL": "https://picsum.photos/seed/puerta-magica/600/600",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "06:30",
+      "endTime": "07:00"
+    },
+    {
+      "id": "cantata-nuevo-dia-dom-mat",
+      "name": "Cantata para un Nuevo Día",
+      "description": "Cantata para un nuevo día",
+      "host": "Damarys Florián",
+      "imageURL": "https://picsum.photos/seed/cantata/600/600",
+      "days": [
+        7
+      ],
+      "startTime": "06:30",
+      "endTime": "07:00"
+    },
+    {
+      "id": "inmortalidad-cangrejo",
+      "name": "La Inmortalidad del Cangrejo",
+      "description": "La Inmortalidad del Cangrejo con Claudia Álvarez Medrano",
+      "host": "Claudia Álvarez Medrano",
+      "imageURL": "https://picsum.photos/seed/cangrejo/600/600",
+      "days": [
+        1,
+        3,
+        5
+      ],
+      "startTime": "07:00",
+      "endTime": "07:30"
+    },
+    {
+      "id": "la-mananera",
+      "name": "La Mañanera",
+      "description": "Transmisión La Mañanera",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/mananera/600/600",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "07:30",
+      "endTime": "09:00"
+    },
+    {
+      "id": "la-puerta-magica-sab",
+      "name": "La Puerta Mágica",
+      "description": "La Puerta Mágica - sábado",
+      "host": "Adriana Cervantes",
+      "imageURL": "https://picsum.photos/seed/puerta-magica-sab/600/600",
+      "days": [
+        6
+      ],
+      "startTime": "07:30",
+      "endTime": "08:00"
+    },
+    {
+      "id": "buenos-dias-michoacan",
+      "name": "Buenos Días Michoacán",
+      "description": "Buenos Días Michoacán con Manuel Ángel Cortés",
+      "host": "Manuel Ángel Cortés",
+      "imageURL": "https://picsum.photos/seed/buenos-dias-michoacan/600/600",
+      "days": [
+        6
+      ],
+      "startTime": "08:00",
+      "endTime": "08:30"
+    },
+    {
+      "id": "senderos-vida",
+      "name": "Los Senderos de la Vida",
+      "description": "Los Senderos de la Vida con Manuel Ángel Cortés",
+      "host": "Manuel Ángel Cortés",
+      "imageURL": "https://picsum.photos/seed/senderos-vida/600/600",
+      "days": [
+        7
+      ],
+      "startTime": "08:00",
+      "endTime": "08:30"
+    },
+    {
+      "id": "mananera-michoacan",
+      "name": "Mañanera Michoacán",
+      "description": "Mañanera Michoacán",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/mananera-michoacan/600/600",
+      "days": [
+        1
+      ],
+      "startTime": "09:00",
+      "endTime": "09:30"
+    },
+    {
+      "id": "voz-animal",
+      "name": "Voz Animal",
+      "description": "Voz Animal con Wendy Lara",
+      "host": "Wendy Lara",
+      "imageURL": "https://picsum.photos/seed/voz-animal/600/600",
+      "days": [
+        6
+      ],
+      "startTime": "09:00",
+      "endTime": "09:30"
+    },
+    {
+      "id": "con-su-permiso",
+      "name": "Con su Permiso",
+      "description": "Con su Permiso con Yazmín David",
+      "host": "Yazmín David",
+      "imageURL": "https://picsum.photos/seed/con-su-permiso/600/600",
+      "days": [
+        1,
+        3,
+        5
+      ],
+      "startTime": "10:00",
+      "endTime": "10:30"
+    },
+    {
+      "id": "una-historia-una-cancion",
+      "name": "Una Historia Una Canción",
+      "description": "Una Historia Una Canción con Yazmín David",
+      "host": "Yazmín David",
+      "imageURL": "https://picsum.photos/seed/una-historia-una-cancion/600/600",
+      "days": [
+        2
+      ],
+      "startTime": "10:00",
+      "endTime": "10:30"
+    },
+    {
+      "id": "variaciones-yazmin",
+      "name": "Variaciones",
+      "description": "Variaciones con Yazmín David",
+      "host": "Yazmín David",
+      "imageURL": "https://picsum.photos/seed/variaciones-yazmin/600/600",
+      "days": [
+        4
+      ],
+      "startTime": "10:00",
+      "endTime": "10:30"
+    },
+    {
+      "id": "corte-informativo-sm",
+      "name": "Corte Informativo SM Noticias Radio",
+      "description": "Corte informativo SM Noticias Radio",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/corte-informativo-sm/600/600",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "10:50",
+      "endTime": "10:58"
+    },
+    {
+      "id": "el-estanquillo-mat",
+      "name": "El Estanquillo",
+      "description": "El Estanquillo con Edith Jiménez",
+      "host": "Edith Jiménez",
+      "imageURL": "https://picsum.photos/seed/el-estanquillo-mat/600/600",
+      "days": [
+        1
+      ],
+      "startTime": "11:00",
+      "endTime": "12:00"
+    },
+    {
+      "id": "conexion-pilar",
+      "name": "Conexión",
+      "description": "Conexión con Pilar Barrón",
+      "host": "Pilar Barrón",
+      "imageURL": "https://picsum.photos/seed/conexion-pilar/600/600",
+      "days": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "11:00",
+      "endTime": "12:00"
+    },
+    {
+      "id": "cinco-al-compas",
+      "name": "Cinco al Compás",
+      "description": "Cinco al Compás (DANAUS)",
+      "host": "DANAUS",
+      "imageURL": "https://picsum.photos/seed/cinco-al-compas/600/600",
+      "days": [
+        7
+      ],
+      "startTime": "11:00",
+      "endTime": "12:00"
+    },
+    {
+      "id": "entre-fronteras",
+      "name": "Entre Fronteras",
+      "description": "Entre Fronteras con Marivel Valle",
+      "host": "Marivel Valle",
+      "imageURL": "https://picsum.photos/seed/entre-fronteras/600/600",
+      "days": [
+        2
+      ],
+      "startTime": "12:00",
+      "endTime": "12:30"
+    },
+    {
+      "id": "conoce-tus-derechos",
+      "name": "Conoce tus Derechos",
+      "description": "Conoce tus Derechos (CEDH)",
+      "host": "CEDH",
+      "imageURL": "https://picsum.photos/seed/conoce-tus-derechos/600/600",
+      "days": [
+        3
+      ],
+      "startTime": "12:00",
+      "endTime": "12:30"
+    },
+    {
+      "id": "disfruta-michoacan",
+      "name": "Disfruta Michoacán",
+      "description": "Disfruta Michoacán",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/disfruta-michoacan/600/600",
+      "days": [
+        5
+      ],
+      "startTime": "12:00",
+      "endTime": "12:30"
+    },
+    {
+      "id": "anos-maravilloso",
+      "name": "Los Años Maravilloso",
+      "description": "Los Años Maravilloso con Joaquín Pardavé",
+      "host": "Joaquín Pardavé",
+      "imageURL": "https://picsum.photos/seed/anos-maravilloso/600/600",
+      "days": [
+        6
+      ],
+      "startTime": "12:00",
+      "endTime": "13:00"
+    },
+    {
+      "id": "noticiario-enterate",
+      "name": "Noticiario: Entérate",
+      "description": "Noticiario Entérate",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/noticiario-enterate/600/600",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "12:30",
+      "endTime": "13:00"
+    },
+    {
+      "id": "abrazos-sonoros",
+      "name": "Abrazos Sonoros",
+      "description": "Abrazos Sonoros con Magali Soriano",
+      "host": "Magali Soriano",
+      "imageURL": "https://picsum.photos/seed/abrazos-sonoros/600/600",
+      "days": [
+        1
+      ],
+      "startTime": "13:05",
+      "endTime": "14:00"
+    },
+    {
+      "id": "frecuencia-central",
+      "name": "Frecuencia Central",
+      "description": "Frecuencia Central con Gustavo Baeza",
+      "host": "Gustavo Baeza",
+      "imageURL": "https://picsum.photos/seed/frecuencia-central/600/600",
+      "days": [
+        3,
+        5
+      ],
+      "startTime": "13:05",
+      "endTime": "14:00"
+    },
+    {
+      "id": "smrtv-noticias-radio",
+      "name": "SMRTV Noticias - Periodismo Radiofónico",
+      "description": "SMRTV Noticias - Periodismo Radiofónico",
+      "host": "Dafne Gutiérrez, Rafael Silva y Erich Cerpa",
+      "imageURL": "https://picsum.photos/seed/smrtv-noticias-radio/600/600",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "14:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "clasificacion-c-ciencia",
+      "name": "Clasificación C, con C de Ciencia",
+      "description": "Clasificación C, con C de Ciencia con Cory González",
+      "host": "Cory González",
+      "imageURL": "https://picsum.photos/seed/clasificacion-c-ciencia/600/600",
+      "days": [
+        6
+      ],
+      "startTime": "14:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "cantata-nuevo-dia",
+      "name": "Cantata para un Nuevo Día",
+      "description": "Cantata para un Nuevo Día con Damarys Florián",
+      "host": "Damarys Florián",
+      "imageURL": "https://picsum.photos/seed/cantata/600/600",
       "days": [
         1,
         2,
@@ -70,11 +468,24 @@
       "endTime": "15:30"
     },
     {
-      "id": "tarde-885",
-      "name": "La Tarde en 88.5",
-      "description": "Entrevistas y entretenimiento",
-      "host": "Carlos Ruiz",
-      "imageURL": "https://picsum.photos/seed/tarde/600/600",
+      "id": "lugares-comunes",
+      "name": "Lugares Comunes",
+      "description": "Lugares Comunes con Gustavo Ogarrio",
+      "host": "Gustavo Ogarrio",
+      "imageURL": "https://picsum.photos/seed/lugares-comunes/600/600",
+      "days": [
+        6,
+        7
+      ],
+      "startTime": "15:00",
+      "endTime": "16:30"
+    },
+    {
+      "id": "carpe-diem-vespertino",
+      "name": "Carpe Diem",
+      "description": "Carpe Diem vespertino con Teresa de Jesús López Florián",
+      "host": "Teresa de Jesús López Florián",
+      "imageURL": "https://picsum.photos/seed/carpe-diem/600/600",
       "days": [
         1,
         2,
@@ -82,21 +493,401 @@
         4,
         5
       ],
+      "startTime": "15:30",
+      "endTime": "16:00"
+    },
+    {
+      "id": "podcast-poder-judicial",
+      "name": "Podcast del Poder Judicial",
+      "description": "Podcast del Poder Judicial",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/podcast-poder-judicial/600/600",
+      "days": [
+        1
+      ],
+      "startTime": "16:00",
+      "endTime": "16:30"
+    },
+    {
+      "id": "venus-de-marfil",
+      "name": "Venus de Marfil",
+      "description": "Venus de Marfil con Teresa de Jesús López Florián",
+      "host": "Teresa de Jesús López Florián",
+      "imageURL": "https://picsum.photos/seed/venus-de-marfil/600/600",
+      "days": [
+        2
+      ],
+      "startTime": "16:00",
+      "endTime": "17:00"
+    },
+    {
+      "id": "artas-plastas",
+      "name": "Hartas Plastas",
+      "description": "Hartas Plastas con Armando Carreño",
+      "host": "Armando Carreño",
+      "imageURL": "https://picsum.photos/seed/artas-plastas/600/600",
+      "days": [
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "16:30"
+    },
+    {
+      "id": "kilo-dos-con-salsa",
+      "name": "Kilo: Dos con Salsa",
+      "description": "Kilo: Dos con Salsa con Rubén Villagrán",
+      "host": "Rubén Villagrán",
+      "imageURL": "https://picsum.photos/seed/kilo-dos-con-salsa/600/600",
+      "days": [
+        7
+      ],
       "startTime": "16:00",
       "endTime": "18:00"
     },
     {
-      "id": "fin-semana",
-      "name": "Fin de Semana Musical",
-      "description": "Música sin parar",
-      "host": "DJ SMRTV",
-      "imageURL": "https://picsum.photos/seed/fin/600/600",
+      "id": "saber-mas",
+      "name": "Saber Más",
+      "description": "Saber Más (UMSNH)",
+      "host": "UMSNH",
+      "imageURL": "https://picsum.photos/seed/saber-mas/600/600",
       "days": [
+        1
+      ],
+      "startTime": "16:30",
+      "endTime": "17:00"
+    },
+    {
+      "id": "charlas-ciudadanas",
+      "name": "Charlas Ciudadanas",
+      "description": "Charlas Ciudadanas (IEM)",
+      "host": "IEM",
+      "imageURL": "https://picsum.photos/seed/charlas-ciudadanas/600/600",
+      "days": [
+        5
+      ],
+      "startTime": "16:30",
+      "endTime": "17:00"
+    },
+    {
+      "id": "sonidos-musica-rosas",
+      "name": "Los Sonidos de la Música",
+      "description": "Los Sonidos de la Música - Conservatorio de las Rosas",
+      "host": "Conservatorio de las Rosas",
+      "imageURL": "https://picsum.photos/seed/sonidos-musica-rosas/600/600",
+      "days": [
+        1
+      ],
+      "startTime": "17:00",
+      "endTime": "18:00"
+    },
+    {
+      "id": "la-caja-negra",
+      "name": "La Caja Negra",
+      "description": "La Caja Negra con Juan Carlos Trejo",
+      "host": "Juan Carlos Trejo",
+      "imageURL": "https://picsum.photos/seed/la-caja-negra/600/600",
+      "days": [
+        2,
+        4
+      ],
+      "startTime": "17:00",
+      "endTime": "17:30"
+    },
+    {
+      "id": "el-estanquillo-vesp",
+      "name": "El Estanquillo",
+      "description": "El Estanquillo con Edith Jiménez - vespertino",
+      "host": "Edith Jiménez",
+      "imageURL": "https://picsum.photos/seed/el-estanquillo-vesp/600/600",
+      "days": [
+        3
+      ],
+      "startTime": "17:00",
+      "endTime": "17:30"
+    },
+    {
+      "id": "basta-roberto",
+      "name": "Basta",
+      "description": "Basta con Roberto Castro",
+      "host": "Roberto Castro",
+      "imageURL": "https://picsum.photos/seed/basta-roberto/600/600",
+      "days": [
+        6
+      ],
+      "startTime": "17:30",
+      "endTime": "18:00"
+    },
+    {
+      "id": "capsula-rtc-5min-vesp",
+      "name": "Cápsula RTC 5 MIN",
+      "description": "Cápsula RTC 5 MIN",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/capsula-rtc-5min-vesp/600/600",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
         6,
         7
       ],
-      "startTime": "10:00",
+      "startTime": "18:00",
+      "endTime": "18:05"
+    },
+    {
+      "id": "circulo-crianza",
+      "name": "Círculo de Crianza, Educando con Amor",
+      "description": "Círculo de Crianza, Educando con Amor con Janet Sigala",
+      "host": "Janet Sigala",
+      "imageURL": "https://picsum.photos/seed/circulo-crianza/600/600",
+      "days": [
+        1
+      ],
+      "startTime": "18:00",
+      "endTime": "18:30"
+    },
+    {
+      "id": "icti",
+      "name": "ICTI",
+      "description": "ICTI",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/icti/600/600",
+      "days": [
+        2
+      ],
+      "startTime": "18:00",
+      "endTime": "18:30"
+    },
+    {
+      "id": "fusion-enrique",
+      "name": "Fusión",
+      "description": "Fusión con Enrique Vázquez",
+      "host": "Enrique Vázquez",
+      "imageURL": "https://picsum.photos/seed/fusion-enrique/600/600",
+      "days": [
+        3
+      ],
+      "startTime": "18:00",
+      "endTime": "18:30"
+    },
+    {
+      "id": "paralelo-19",
+      "name": "Paralelo 19",
+      "description": "Paralelo 19 con Ana Claudia Nepote",
+      "host": "Ana Claudia Nepote",
+      "imageURL": "https://picsum.photos/seed/paralelo-19/600/600",
+      "days": [
+        4
+      ],
+      "startTime": "18:00",
+      "endTime": "18:30"
+    },
+    {
+      "id": "pastel-roberto-rep",
+      "name": "Pastel",
+      "description": "Pastel con Roberto Castro (Repetición)",
+      "host": "Roberto Castro (Repetición)",
+      "imageURL": "https://picsum.photos/seed/pastel-roberto-rep/600/600",
+      "days": [
+        7
+      ],
+      "startTime": "18:00",
+      "endTime": "19:00"
+    },
+    {
+      "id": "recargado-2-0",
+      "name": "Recargado 2.0",
+      "description": "Recargado 2.0 con Adriana Cervantes",
+      "host": "Adriana Cervantes",
+      "imageURL": "https://picsum.photos/seed/recargado-2-0/600/600",
+      "days": [
+        1,
+        5
+      ],
+      "startTime": "18:30",
       "endTime": "20:00"
+    },
+    {
+      "id": "capsula-rtc-10min",
+      "name": "Cápsula RTC 10 MIN",
+      "description": "Cápsula RTC 10 MIN",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/capsula-rtc-10min/600/600",
+      "days": [
+        6
+      ],
+      "startTime": "18:30",
+      "endTime": "18:40"
+    },
+    {
+      "id": "fusion-repeticion",
+      "name": "Fusión (Repetición)",
+      "description": "Fusión con Enrique Vázquez (Repetición)",
+      "host": "Enrique Vázquez",
+      "imageURL": "https://picsum.photos/seed/fusion-repeticion/600/600",
+      "days": [
+        6
+      ],
+      "startTime": "19:00",
+      "endTime": "20:00"
+    },
+    {
+      "id": "noticiero-cientifico",
+      "name": "Noticiero Científico",
+      "description": "Noticiero Científico",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/noticiero-cientifico/600/600",
+      "days": [
+        1
+      ],
+      "startTime": "20:00",
+      "endTime": "20:30"
+    },
+    {
+      "id": "concierto-urbano",
+      "name": "Concierto Urbano Radio",
+      "description": "Concierto Urbano Radio",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/concierto-urbano/600/600",
+      "days": [
+        3
+      ],
+      "startTime": "20:00",
+      "endTime": "21:00"
+    },
+    {
+      "id": "nocturnia",
+      "name": "Nocturnia",
+      "description": "Nocturnia con Eduardo Bermúdez",
+      "host": "Eduardo Bermúdez",
+      "imageURL": "https://picsum.photos/seed/nocturnia/600/600",
+      "days": [
+        6
+      ],
+      "startTime": "20:00",
+      "endTime": "21:00"
+    },
+    {
+      "id": "variaciones-repeticion",
+      "name": "Variaciones (Repetición)",
+      "description": "Variaciones (Repetición) con Yazmín David",
+      "host": "Yazmín David",
+      "imageURL": "https://picsum.photos/seed/variaciones-repeticion/600/600",
+      "days": [
+        7
+      ],
+      "startTime": "20:00",
+      "endTime": "21:00"
+    },
+    {
+      "id": "una-historia-cancion-rep",
+      "name": "Una Historia Una Canción (Repetición)",
+      "description": "Una Historia Una Canción (Repetición)",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/una-historia-cancion-rep/600/600",
+      "days": [
+        4
+      ],
+      "startTime": "21:00",
+      "endTime": "21:30"
+    },
+    {
+      "id": "el-muladar",
+      "name": "El Muladar",
+      "description": "El Muladar con el Licenciado Monguia",
+      "host": "Licenciado Monguia",
+      "imageURL": "https://picsum.photos/seed/el-muladar/600/600",
+      "days": [
+        5
+      ],
+      "startTime": "21:30",
+      "endTime": "22:00"
+    },
+    {
+      "id": "historia-resistencia",
+      "name": "La Historia de la Resistencia",
+      "description": "La Historia de la Resistencia con Héctor Jacobo",
+      "host": "Héctor Jacobo",
+      "imageURL": "https://picsum.photos/seed/historia-resistencia/600/600",
+      "days": [
+        1
+      ],
+      "startTime": "22:00",
+      "endTime": "23:00"
+    },
+    {
+      "id": "extrano-retorno-venlo",
+      "name": "El Extraño Retorno del Dr. Venlo",
+      "description": "El Extraño Retorno del Dr. Venlo con Héctor Jacobo",
+      "host": "Héctor Jacobo",
+      "imageURL": "https://picsum.photos/seed/extrano-retorno-venlo/600/600",
+      "days": [
+        2
+      ],
+      "startTime": "22:00",
+      "endTime": "23:00"
+    },
+    {
+      "id": "archivo-centinela",
+      "name": "El Archivo del Centinela",
+      "description": "El Archivo del Centinela con Héctor Jacobo",
+      "host": "Héctor Jacobo",
+      "imageURL": "https://picsum.photos/seed/archivo-centinela/600/600",
+      "days": [
+        3
+      ],
+      "startTime": "22:00",
+      "endTime": "23:00"
+    },
+    {
+      "id": "pulso-106-9",
+      "name": "Pulso 106.9",
+      "description": "Pulso 106.9 con Sonia León",
+      "host": "Sonia León",
+      "imageURL": "https://picsum.photos/seed/pulso-106-9/600/600",
+      "days": [
+        4,
+        6
+      ],
+      "startTime": "22:00",
+      "endTime": "22:30"
+    },
+    {
+      "id": "hora-nacional",
+      "name": "La Hora Nacional",
+      "description": "La Hora Nacional",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/hora-nacional/600/600",
+      "days": [
+        7
+      ],
+      "startTime": "22:00",
+      "endTime": "23:00"
+    },
+    {
+      "id": "musica-resistencia",
+      "name": "Música de la Resistencia",
+      "description": "Música de la Resistencia",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/musica-resistencia/600/600",
+      "days": [
+        1
+      ],
+      "startTime": "23:00",
+      "endTime": "24:00"
+    },
+    {
+      "id": "media-hora-estatal",
+      "name": "Media Hora Estatal",
+      "description": "Media Hora Estatal",
+      "host": "",
+      "imageURL": "https://picsum.photos/seed/media-hora-estatal/600/600",
+      "days": [
+        7
+      ],
+      "startTime": "23:00",
+      "endTime": "23:30"
     }
   ],
   "features": {
