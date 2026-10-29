@@ -42,7 +42,7 @@
       "name": "Carpe Diem",
       "description": "Carpe Diem con Teresa de Jesús López Florián",
       "host": "Teresa de Jesús López Florián",
-      "imageURL": "https://picsum.photos/seed/carpe-diem/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/carpe-diem.jpg",
       "days": [
         1,
         2,
@@ -58,7 +58,7 @@
       "name": "La Puerta Mágica",
       "description": "La Puerta Mágica con Adriana Cervantes",
       "host": "Adriana Cervantes",
-      "imageURL": "https://picsum.photos/seed/puerta-magica/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/la-puerta-magica-matutino.jpg",
       "days": [
         1,
         2,
@@ -74,7 +74,7 @@
       "name": "Cantata para un Nuevo Día",
       "description": "Cantata para un nuevo día",
       "host": "Damarys Florián",
-      "imageURL": "https://picsum.photos/seed/cantata/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/cantata-nuevo-dia.jpg",
       "days": [
         7
       ],
@@ -86,7 +86,7 @@
       "name": "La Inmortalidad del Cangrejo",
       "description": "La Inmortalidad del Cangrejo con Claudia Álvarez Medrano",
       "host": "Claudia Álvarez Medrano",
-      "imageURL": "https://picsum.photos/seed/cangrejo/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/inmortalidad-cangrejo.jpg",
       "days": [
         1,
         3,
@@ -100,7 +100,7 @@
       "name": "La Mañanera",
       "description": "Transmisión La Mañanera",
       "host": "Claudia sheinbaum",
-      "imageURL": "https://picsum.photos/seed/mananera/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/la-mananera.jpg",
       "days": [
         1,
         2,
@@ -116,7 +116,7 @@
       "name": "La Puerta Mágica",
       "description": "La Puerta Mágica - sábado",
       "host": "Adriana Cervantes",
-      "imageURL": "https://picsum.photos/seed/puerta-magica-sab/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/la-puerta-magica-sab.jpg",
       "days": [
         6
       ],
@@ -128,7 +128,7 @@
       "name": "Buenos Días Michoacán",
       "description": "Buenos Días Michoacán con Manuel Ángel Cortés",
       "host": "Manuel Ángel Cortés",
-      "imageURL": "https://picsum.photos/seed/buenos-dias-michoacan/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/buenos-dias-michoacan.jpg",
       "days": [
         6
       ],
@@ -140,7 +140,7 @@
       "name": "Los Senderos de la Vida",
       "description": "Los Senderos de la Vida con Manuel Ángel Cortés",
       "host": "Manuel Ángel Cortés",
-      "imageURL": "https://picsum.photos/seed/senderos-vida/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/senderos-vida.jpg",
       "days": [
         7
       ],
@@ -152,7 +152,7 @@
       "name": "Mañanera Michoacán",
       "description": "Mañanera Michoacán",
       "host": "Alfredo Ramírez Bedolla",
-      "imageURL": "https://picsum.photos/seed/mananera-michoacan/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/mananera-michoacan.jpg",
       "days": [
         1
       ],
@@ -164,7 +164,7 @@
       "name": "Voz Animal",
       "description": "Voz Animal con Wendy Lara",
       "host": "Wendy Lara",
-      "imageURL": "https://picsum.photos/seed/voz-animal/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/voz-animal.jpg",
       "days": [
         6
       ],
@@ -176,7 +176,7 @@
       "name": "Con su Permiso",
       "description": "Con su Permiso con Yazmín David",
       "host": "Yazmín David",
-      "imageURL": "https://picsum.photos/seed/con-su-permiso/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/con-su-permiso.jpg",
       "days": [
         1,
         3,
@@ -190,7 +190,7 @@
       "name": "Una Historia Una Canción",
       "description": "Una Historia Una Canción con Yazmín David",
       "host": "Yazmín David",
-      "imageURL": "https://picsum.photos/seed/una-historia-una-cancion/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/una-historia-una-cancion.jpg",
       "days": [
         2
       ],
@@ -202,7 +202,7 @@
       "name": "Variaciones",
       "description": "Variaciones con Yazmín David",
       "host": "Yazmín David",
-      "imageURL": "https://picsum.photos/seed/variaciones-yazmin/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/variaciones-yazmin.jpg",
       "days": [
         4
       ],
@@ -214,7 +214,7 @@
       "name": "El Estanquillo",
       "description": "El Estanquillo con Edith Jiménez",
       "host": "Edith Jiménez",
-      "imageURL": "https://picsum.photos/seed/el-estanquillo-mat/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/el-estanquillo-mat.jpg",
       "days": [
         1
       ],
@@ -226,7 +226,7 @@
       "name": "Conexión",
       "description": "Conexión con Pilar Barrón",
       "host": "Pilar Barrón",
-      "imageURL": "https://picsum.photos/seed/conexion-pilar/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/conexion-pilar.jpg",
       "days": [
         2,
         3,
@@ -241,7 +241,7 @@
       "name": "Cinco al Compás",
       "description": "Cinco al Compás (DANAUS)",
       "host": "DANAUS",
-      "imageURL": "https://picsum.photos/seed/cinco-al-compas/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/cinco-al-compas.jpg",
       "days": [
         7
       ],
@@ -253,7 +253,7 @@
       "name": "Entre Fronteras",
       "description": "Entre Fronteras con Marivel Valle",
       "host": "Marivel Valle",
-      "imageURL": "https://picsum.photos/seed/entre-fronteras/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/entre-fronteras.jpg",
       "days": [
         2
       ],
@@ -265,7 +265,7 @@
       "name": "Conoce tus Derechos",
       "description": "Conoce tus Derechos (CEDH)",
       "host": "CEDH",
-      "imageURL": "https://picsum.photos/seed/conoce-tus-derechos/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/conoce-tus-derechos.jpg",
       "days": [
         3
       ],
@@ -277,7 +277,7 @@
       "name": "Disfruta Michoacán",
       "description": "Disfruta Michoacán",
       "host": "Carlos Prado",
-      "imageURL": "https://picsum.photos/seed/disfruta-michoacan/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/disfruta-michoacan.jpg",
       "days": [
         5
       ],
@@ -289,7 +289,7 @@
       "name": "Los Años Maravilloso",
       "description": "Los Años Maravillosos",
       "host": "Joaquín Pardavé",
-      "imageURL": "https://picsum.photos/seed/anos-maravilloso/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/anos-maravilloso.jpg",
       "days": [
         6
       ],
@@ -301,7 +301,7 @@
       "name": "Noticiario: Entérate",
       "description": "Noticiario Entérate",
       "host": "Cesar Guillen",
-      "imageURL": "https://picsum.photos/seed/noticiario-enterate/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/noticiario-enterate.jpg",
       "days": [
         1,
         2,
@@ -317,7 +317,7 @@
       "name": "Abrazos Sonoros",
       "description": "Abrazos Sonoros",
       "host": "Magali Soriano",
-      "imageURL": "https://picsum.photos/seed/abrazos-sonoros/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/abrazos-sonoros.jpg",
       "days": [
         1
       ],
@@ -329,7 +329,7 @@
       "name": "Frecuencia Central",
       "description": "Frecuencia Central",
       "host": "Gustavo Baeza",
-      "imageURL": "https://picsum.photos/seed/frecuencia-central/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/frecuencia-central.jpg",
       "days": [
         3,
         5
@@ -342,7 +342,7 @@
       "name": "SMRTV Noticias - Periodismo Radiofónico",
       "description": "SMRTV Noticias - Periodismo Radiofónico",
       "host": "Dafne Gutiérrez y Erich Cerpa",
-      "imageURL": "https://picsum.photos/seed/smrtv-noticias-radio/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/smrtv-noticias-radio.jpg",
       "days": [
         1,
         2,
@@ -358,7 +358,7 @@
       "name": "Clasificación C, con C de Ciencia",
       "description": "Clasificación C, con C de Ciencia",
       "host": "Cory González",
-      "imageURL": "https://picsum.photos/seed/clasificacion-c-ciencia/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/clasificacion-c-ciencia.jpg",
       "days": [
         6
       ],
@@ -370,7 +370,7 @@
       "name": "Cantata para un Nuevo Día",
       "description": "Cantata para un Nuevo Día con Damarys Florián",
       "host": "Damarys Florián",
-      "imageURL": "https://picsum.photos/seed/cantata/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/cantata-nuevo-dia.jpg",
       "days": [
         1,
         2,
@@ -386,7 +386,7 @@
       "name": "Lugares Comunes",
       "description": "Lugares Comunes con Gustavo Ogarrio",
       "host": "Gustavo Ogarrio",
-      "imageURL": "https://picsum.photos/seed/lugares-comunes/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/lugares-comunes.jpg",
       "days": [
         6,
         7
@@ -399,7 +399,7 @@
       "name": "Carpe Diem",
       "description": "Carpe Diem vespertino con Teresa de Jesús López Florián",
       "host": "Teresa de Jesús López Florián",
-      "imageURL": "https://picsum.photos/seed/carpe-diem/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/carpe-diem.jpg",
       "days": [
         1,
         2,
@@ -415,7 +415,7 @@
       "name": "Podcast del Poder Judicial",
       "description": "El Arte de lo Bueno y lo Justo",
       "host": "Astrid Del Ángel",
-      "imageURL": "https://picsum.photos/seed/podcast-poder-judicial/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/podcast-poder-judicial.jpg",
       "days": [
         1
       ],
@@ -427,7 +427,7 @@
       "name": "Venus de Marfil",
       "description": "Venus de Marfil con Teresa de Jesús López Florián",
       "host": "Teresa de Jesús López Florián",
-      "imageURL": "https://picsum.photos/seed/venus-de-marfil/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/venus-de-marfil.jpg",
       "days": [
         2
       ],
@@ -439,7 +439,7 @@
       "name": "Hartas Plastas",
       "description": "Hartas Plastas con Armando Carreño",
       "host": "Armando Carreño",
-      "imageURL": "https://picsum.photos/seed/artas-plastas/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/artas-plastas.jpg",
       "days": [
         5
       ],
@@ -451,7 +451,7 @@
       "name": "Idilio: Dos con Salsa",
       "description": "Idilio: Dos con Salsa con Rubén Villagrán",
       "host": "Rubén Villagrán",
-      "imageURL": "https://picsum.photos/seed/kilo-dos-con-salsa/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/idilio-dos-con-salsa.jpg",
       "days": [
         7
       ],
@@ -463,7 +463,7 @@
       "name": "Saber Más",
       "description": "Saber Más (UMSNH)",
       "host": "UMSNH",
-      "imageURL": "https://picsum.photos/seed/saber-mas/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/saber-mas.jpg",
       "days": [
         1
       ],
@@ -475,7 +475,7 @@
       "name": "Charlas Ciudadanas",
       "description": "Charlas Ciudadanas (IEM)",
       "host": "IEM",
-      "imageURL": "https://picsum.photos/seed/charlas-ciudadanas/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/charlas-ciudadanas.jpg",
       "days": [
         5
       ],
@@ -487,7 +487,7 @@
       "name": "Los Sonidos de la Música",
       "description": "Los Sonidos de la Música - Conservatorio de las Rosas",
       "host": "Conservatorio de las Rosas",
-      "imageURL": "https://picsum.photos/seed/sonidos-musica-rosas/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/sonidos-musica-rosas.jpg",
       "days": [
         1
       ],
@@ -499,7 +499,7 @@
       "name": "La Caja Negra",
       "description": "La Caja Negra con Juan Carlos Trejo",
       "host": "Juan Carlos Trejo",
-      "imageURL": "https://picsum.photos/seed/la-caja-negra/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/la-caja-negra.jpg",
       "days": [
         2,
         4
@@ -512,7 +512,7 @@
       "name": "El Estanquillo",
       "description": "El Estanquillo con Edith Jiménez - vespertino",
       "host": "Edith Jiménez",
-      "imageURL": "https://picsum.photos/seed/el-estanquillo-vesp/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/el-estanquillo-vesp.jpg",
       "days": [
         3
       ],
@@ -524,7 +524,7 @@
       "name": "Pastel",
       "description": "Pastel con Roberto Castro",
       "host": "Roberto Castro",
-      "imageURL": "https://picsum.photos/seed/basta-roberto/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/Pastel-roberto.jpg",
       "days": [
         6
       ],
@@ -536,7 +536,7 @@
       "name": "Círculo de Crianza, Educando con Amor",
       "description": "Círculo de Crianza, Educando con Amor con Janet Sigala",
       "host": "Janet Sigala",
-      "imageURL": "https://picsum.photos/seed/circulo-crianza/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/circulo-crianza.jpg",
       "days": [
         1
       ],
@@ -548,7 +548,7 @@
       "name": "ICTI Escucha Conciencia",
       "description": "Escucha Conciencia - ICTI",
       "host": "ICTI",
-      "imageURL": "https://picsum.photos/seed/icti/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/icti.jpg",
       "days": [
         2
       ],
@@ -560,7 +560,7 @@
       "name": "Fusión",
       "description": "Fusión con Enrique Vázquez",
       "host": "Enrique Vázquez",
-      "imageURL": "https://picsum.photos/seed/fusion-enrique/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/fusion-enrique.jpg",
       "days": [
         3
       ],
@@ -572,7 +572,7 @@
       "name": "Paralelo 19",
       "description": "Paralelo 19 con Ana Claudia Nepote",
       "host": "Ana Claudia Nepote",
-      "imageURL": "https://picsum.photos/seed/paralelo-19/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/paralelo-19.jpg",
       "days": [
         4
       ],
@@ -584,7 +584,7 @@
       "name": "Pastel",
       "description": "Pastel con Roberto Castro (Repetición)",
       "host": "Roberto Castro (Repetición)",
-      "imageURL": "https://picsum.photos/seed/pastel-roberto-rep/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/pastel-roberto-rep.jpg",
       "days": [
         7
       ],
@@ -596,7 +596,7 @@
       "name": "Recargado 2.0",
       "description": "Recargado 2.0 con Adriana Cervantes",
       "host": "Adriana Cervantes",
-      "imageURL": "https://picsum.photos/seed/recargado-2-0/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/recargado-2-0.jpg",
       "days": [
         1,
         5
@@ -609,7 +609,7 @@
       "name": "Cápsula RTC 10 MIN",
       "description": "Cápsula RTC 10 MIN",
       "host": "",
-      "imageURL": "https://picsum.photos/seed/capsula-rtc-10min/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/capsula-rtc-10min.jpg",
       "days": [
         6
       ],
@@ -621,7 +621,7 @@
       "name": "Fusión (Repetición)",
       "description": "Fusión con Enrique Vázquez (Repetición)",
       "host": "Enrique Vázquez",
-      "imageURL": "https://picsum.photos/seed/fusion-repeticion/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/fusion-repeticion.jpg",
       "days": [
         6
       ],
@@ -633,7 +633,7 @@
       "name": "Noticiero Científico",
       "description": "Noticiero Científico y Cultural Iberoamericano (NCC)",
       "host": "Ana Cristina Olvera e Iván Carrillo",
-      "imageURL": "https://picsum.photos/seed/noticiero-cientifico/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/noticiero-cientifico.jpg",
       "days": [
         1
       ],
@@ -645,7 +645,7 @@
       "name": "Concierto Urbano Radio",
       "description": "Concierto Urbano Radio",
       "host": "Ángel Maldonado",
-      "imageURL": "https://picsum.photos/seed/concierto-urbano/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/concierto-urbano.jpg",
       "days": [
         3
       ],
@@ -657,7 +657,7 @@
       "name": "Nocturnia",
       "description": "Nocturnia con Eduardo Bermúdez",
       "host": "Eduardo Bermúdez",
-      "imageURL": "https://picsum.photos/seed/nocturnia/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/nocturnia.jpg",
       "days": [
         6
       ],
@@ -669,7 +669,7 @@
       "name": "Variaciones (Repetición)",
       "description": "Variaciones (Repetición) con Yazmín David",
       "host": "Yazmín David",
-      "imageURL": "https://picsum.photos/seed/variaciones-repeticion/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/variaciones-repeticion.jpg",
       "days": [
         7
       ],
@@ -681,7 +681,7 @@
       "name": "Una Historia Una Canción (Repetición)",
       "description": "Una Historia Una Canción (Repetición)",
       "host": "",
-      "imageURL": "https://picsum.photos/seed/una-historia-cancion-rep/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/una-historia-cancion-rep.jpg",
       "days": [
         4
       ],
@@ -693,7 +693,7 @@
       "name": "El Muladar",
       "description": "El Muladar con el Licenciado Munguia",
       "host": "Licenciado Munguia",
-      "imageURL": "https://picsum.photos/seed/el-muladar/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/el-muladar.jpg",
       "days": [
         5
       ],
@@ -705,7 +705,7 @@
       "name": "La Historia de la Resistencia",
       "description": "La Historia de la Resistencia Auditiva con Héctor Jacobo",
       "host": "Héctor Jacobo",
-      "imageURL": "https://picsum.photos/seed/historia-resistencia/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/historia-resistencia.jpg",
       "days": [
         1
       ],
@@ -717,7 +717,7 @@
       "name": "El Extraño Retorno del Dr. Venilo",
       "description": "El Extraño Retorno del Dr. Venilo con Héctor Jacobo",
       "host": "Héctor Jacobo",
-      "imageURL": "https://picsum.photos/seed/extrano-retorno-venlo/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/extrano-retorno-venlo.jpg",
       "days": [
         2
       ],
@@ -729,7 +729,7 @@
       "name": "El Archivo del Centinela",
       "description": "El Archivo del Centinela con Héctor Jacobo",
       "host": "Héctor Jacobo",
-      "imageURL": "https://picsum.photos/seed/archivo-centinela/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/archivo-centinela.jpg",
       "days": [
         3
       ],
@@ -741,7 +741,7 @@
       "name": "Pulso 106.9",
       "description": "Pulso 106.9 con Sonia León",
       "host": "Sonia León",
-      "imageURL": "https://picsum.photos/seed/pulso-106-9/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/pulso-106-9.jpg",
       "days": [
         4,
         6
@@ -754,7 +754,7 @@
       "name": "La Hora Nacional",
       "description": "La Hora Nacional",
       "host": "Leonora Milán y Javier Ramírez",
-      "imageURL": "https://picsum.photos/seed/hora-nacional/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/hora-nacional.jpg",
       "days": [
         7
       ],
@@ -766,7 +766,7 @@
       "name": "Música de la Resistencia",
       "description": "Música de la Resistencia",
       "host": "Héctor Jacobo",
-      "imageURL": "https://picsum.photos/seed/musica-resistencia/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/musica-resistencia.jpg",
       "days": [
         1
       ],
@@ -778,7 +778,7 @@
       "name": "Media Hora Estatal",
       "description": "Media Hora Estatal",
       "host": "Pilar Barrón",
-      "imageURL": "https://picsum.photos/seed/media-hora-estatal/600/600",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/media-hora-estatal.jpg",
       "days": [
         7
       ],
