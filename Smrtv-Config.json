@@ -34,79 +34,9 @@
     "whatsappMessage": "Hola SMRTV, los escucho en 88.5 FM Desde La App",
     "phone": "+524433235067",
     "website": "https://sistemamichoacano.tv",
-    "email": "contacto@smrtv.com"
+    "email": "sistemamichradio@gmail.com"
   },
   "programs": [
-    {
-      "id": "cierre-transmision",
-      "name": "Cierre de Transmisión - Himno Nacional Mexicano",
-      "description": "Cierre de transmisión - Himno Nacional",
-      "host": "",
-      "imageURL": "https://picsum.photos/seed/cierre-transmision/600/600",
-      "days": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ],
-      "startTime": "00:00",
-      "endTime": "00:03"
-    },
-    {
-      "id": "musica-madrugada",
-      "name": "Música Continua",
-      "description": "Música continua madrugada",
-      "host": "",
-      "imageURL": "https://picsum.photos/seed/musica-madrugada/600/600",
-      "days": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ],
-      "startTime": "00:03",
-      "endTime": "06:00"
-    },
-    {
-      "id": "himno-nacional",
-      "name": "Himno Nacional Mexicano",
-      "description": "Himno Nacional Mexicano",
-      "host": "",
-      "imageURL": "https://picsum.photos/seed/himno-nacional/600/600",
-      "days": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ],
-      "startTime": "06:00",
-      "endTime": "06:02"
-    },
-    {
-      "id": "capsula-rtc-5min-mat",
-      "name": "Cápsula RTC 5 MIN",
-      "description": "Cápsula informativa RTC",
-      "host": "",
-      "imageURL": "https://picsum.photos/seed/capsula-rtc-5min-mat/600/600",
-      "days": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "startTime": "06:02",
-      "endTime": "06:07"
-    },
     {
       "id": "carpe-diem-matutino",
       "name": "Carpe Diem",
@@ -169,7 +99,7 @@
       "id": "la-mananera",
       "name": "La Mañanera",
       "description": "Transmisión La Mañanera",
-      "host": "",
+      "host": "Claudia sheinbaum",
       "imageURL": "https://picsum.photos/seed/mananera/600/600",
       "days": [
         1,
@@ -221,7 +151,7 @@
       "id": "mananera-michoacan",
       "name": "Mañanera Michoacán",
       "description": "Mañanera Michoacán",
-      "host": "",
+      "host": "Alfredo Ramírez Bedolla",
       "imageURL": "https://picsum.photos/seed/mananera-michoacan/600/600",
       "days": [
         1
@@ -278,22 +208,6 @@
       ],
       "startTime": "10:00",
       "endTime": "10:30"
-    },
-    {
-      "id": "corte-informativo-sm",
-      "name": "Corte Informativo SM Noticias Radio",
-      "description": "Corte informativo SM Noticias Radio",
-      "host": "",
-      "imageURL": "https://picsum.photos/seed/corte-informativo-sm/600/600",
-      "days": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "startTime": "10:50",
-      "endTime": "10:58"
     },
     {
       "id": "el-estanquillo-mat",
@@ -362,7 +276,7 @@
       "id": "disfruta-michoacan",
       "name": "Disfruta Michoacán",
       "description": "Disfruta Michoacán",
-      "host": "",
+      "host": "Carlos Prado",
       "imageURL": "https://picsum.photos/seed/disfruta-michoacan/600/600",
       "days": [
         5
@@ -373,7 +287,7 @@
     {
       "id": "anos-maravilloso",
       "name": "Los Años Maravilloso",
-      "description": "Los Años Maravilloso con Joaquín Pardavé",
+      "description": "Los Años Maravillosos",
       "host": "Joaquín Pardavé",
       "imageURL": "https://picsum.photos/seed/anos-maravilloso/600/600",
       "days": [
@@ -386,7 +300,7 @@
       "id": "noticiario-enterate",
       "name": "Noticiario: Entérate",
       "description": "Noticiario Entérate",
-      "host": "",
+      "host": "Cesar Guillen",
       "imageURL": "https://picsum.photos/seed/noticiario-enterate/600/600",
       "days": [
         1,
@@ -401,7 +315,7 @@
     {
       "id": "abrazos-sonoros",
       "name": "Abrazos Sonoros",
-      "description": "Abrazos Sonoros con Magali Soriano",
+      "description": "Abrazos Sonoros",
       "host": "Magali Soriano",
       "imageURL": "https://picsum.photos/seed/abrazos-sonoros/600/600",
       "days": [
@@ -413,7 +327,7 @@
     {
       "id": "frecuencia-central",
       "name": "Frecuencia Central",
-      "description": "Frecuencia Central con Gustavo Baeza",
+      "description": "Frecuencia Central",
       "host": "Gustavo Baeza",
       "imageURL": "https://picsum.photos/seed/frecuencia-central/600/600",
       "days": [
@@ -427,7 +341,7 @@
       "id": "smrtv-noticias-radio",
       "name": "SMRTV Noticias - Periodismo Radiofónico",
       "description": "SMRTV Noticias - Periodismo Radiofónico",
-      "host": "Dafne Gutiérrez, Rafael Silva y Erich Cerpa",
+      "host": "Dafne Gutiérrez y Erich Cerpa",
       "imageURL": "https://picsum.photos/seed/smrtv-noticias-radio/600/600",
       "days": [
         1,
@@ -442,7 +356,7 @@
     {
       "id": "clasificacion-c-ciencia",
       "name": "Clasificación C, con C de Ciencia",
-      "description": "Clasificación C, con C de Ciencia con Cory González",
+      "description": "Clasificación C, con C de Ciencia",
       "host": "Cory González",
       "imageURL": "https://picsum.photos/seed/clasificacion-c-ciencia/600/600",
       "days": [
@@ -499,8 +413,8 @@
     {
       "id": "podcast-poder-judicial",
       "name": "Podcast del Poder Judicial",
-      "description": "Podcast del Poder Judicial",
-      "host": "",
+      "description": "El Arte de lo Bueno y lo Justo",
+      "host": "Astrid Del Ángel",
       "imageURL": "https://picsum.photos/seed/podcast-poder-judicial/600/600",
       "days": [
         1
@@ -533,9 +447,9 @@
       "endTime": "16:30"
     },
     {
-      "id": "kilo-dos-con-salsa",
-      "name": "Kilo: Dos con Salsa",
-      "description": "Kilo: Dos con Salsa con Rubén Villagrán",
+      "id": "idilio-dos-con-salsa",
+      "name": "Idilio: Dos con Salsa",
+      "description": "Idilio: Dos con Salsa con Rubén Villagrán",
       "host": "Rubén Villagrán",
       "imageURL": "https://picsum.photos/seed/kilo-dos-con-salsa/600/600",
       "days": [
@@ -606,9 +520,9 @@
       "endTime": "17:30"
     },
     {
-      "id": "basta-roberto",
-      "name": "Basta",
-      "description": "Basta con Roberto Castro",
+      "id": "Pastel-roberto",
+      "name": "Pastel",
+      "description": "Pastel con Roberto Castro",
       "host": "Roberto Castro",
       "imageURL": "https://picsum.photos/seed/basta-roberto/600/600",
       "days": [
@@ -616,24 +530,6 @@
       ],
       "startTime": "17:30",
       "endTime": "18:00"
-    },
-    {
-      "id": "capsula-rtc-5min-vesp",
-      "name": "Cápsula RTC 5 MIN",
-      "description": "Cápsula RTC 5 MIN",
-      "host": "",
-      "imageURL": "https://picsum.photos/seed/capsula-rtc-5min-vesp/600/600",
-      "days": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ],
-      "startTime": "18:00",
-      "endTime": "18:05"
     },
     {
       "id": "circulo-crianza",
@@ -649,9 +545,9 @@
     },
     {
       "id": "icti",
-      "name": "ICTI",
-      "description": "ICTI",
-      "host": "",
+      "name": "ICTI Escucha Conciencia",
+      "description": "Escucha Conciencia - ICTI",
+      "host": "ICTI",
       "imageURL": "https://picsum.photos/seed/icti/600/600",
       "days": [
         2
@@ -735,8 +631,8 @@
     {
       "id": "noticiero-cientifico",
       "name": "Noticiero Científico",
-      "description": "Noticiero Científico",
-      "host": "",
+      "description": "Noticiero Científico y Cultural Iberoamericano (NCC)",
+      "host": "Ana Cristina Olvera e Iván Carrillo",
       "imageURL": "https://picsum.photos/seed/noticiero-cientifico/600/600",
       "days": [
         1
@@ -748,7 +644,7 @@
       "id": "concierto-urbano",
       "name": "Concierto Urbano Radio",
       "description": "Concierto Urbano Radio",
-      "host": "",
+      "host": "Ángel Maldonado",
       "imageURL": "https://picsum.photos/seed/concierto-urbano/600/600",
       "days": [
         3
@@ -795,8 +691,8 @@
     {
       "id": "el-muladar",
       "name": "El Muladar",
-      "description": "El Muladar con el Licenciado Monguia",
-      "host": "Licenciado Monguia",
+      "description": "El Muladar con el Licenciado Munguia",
+      "host": "Licenciado Munguia",
       "imageURL": "https://picsum.photos/seed/el-muladar/600/600",
       "days": [
         5
@@ -807,7 +703,7 @@
     {
       "id": "historia-resistencia",
       "name": "La Historia de la Resistencia",
-      "description": "La Historia de la Resistencia con Héctor Jacobo",
+      "description": "La Historia de la Resistencia Auditiva con Héctor Jacobo",
       "host": "Héctor Jacobo",
       "imageURL": "https://picsum.photos/seed/historia-resistencia/600/600",
       "days": [
@@ -818,8 +714,8 @@
     },
     {
       "id": "extrano-retorno-venlo",
-      "name": "El Extraño Retorno del Dr. Venlo",
-      "description": "El Extraño Retorno del Dr. Venlo con Héctor Jacobo",
+      "name": "El Extraño Retorno del Dr. Venilo",
+      "description": "El Extraño Retorno del Dr. Venilo con Héctor Jacobo",
       "host": "Héctor Jacobo",
       "imageURL": "https://picsum.photos/seed/extrano-retorno-venlo/600/600",
       "days": [
@@ -857,7 +753,7 @@
       "id": "hora-nacional",
       "name": "La Hora Nacional",
       "description": "La Hora Nacional",
-      "host": "",
+      "host": "Leonora Milán y Javier Ramírez",
       "imageURL": "https://picsum.photos/seed/hora-nacional/600/600",
       "days": [
         7
@@ -869,7 +765,7 @@
       "id": "musica-resistencia",
       "name": "Música de la Resistencia",
       "description": "Música de la Resistencia",
-      "host": "",
+      "host": "Héctor Jacobo",
       "imageURL": "https://picsum.photos/seed/musica-resistencia/600/600",
       "days": [
         1
@@ -881,7 +777,7 @@
       "id": "media-hora-estatal",
       "name": "Media Hora Estatal",
       "description": "Media Hora Estatal",
-      "host": "",
+      "host": "Pilar Barrón",
       "imageURL": "https://picsum.photos/seed/media-hora-estatal/600/600",
       "days": [
         7
