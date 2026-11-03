@@ -5,11 +5,11 @@
     "frequency": "88.5 FM",
     "slogan": "Sistema Michoacano de Radio y Televisión",
     "defaultSongText": "Sistema Michoacano de Radio y Televisión",
-    "defaultProgramText": "Música Continua",
+    "defaultProgramText": "Programación Musical Continua",
     "liveBadgeText": "EN VIVO",
     "connectingText": "CONECTANDO",
     "stoppedText": "DETENIDO",
-    "bufferingText": "Buffering...",
+    "bufferingText": "Buffering, Conectando...",
     "offlineText": "Sin conexión",
     "tapToVinylText": "Toca para ver vinil",
     "tapToLottieText": "Toca para ver animación",
@@ -58,25 +58,13 @@
       "name": "La Puerta Mágica",
       "description": "La Puerta Mágica con Adriana Cervantes",
       "host": "Adriana Cervantes",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/la-puerta-magica-matutino.jpg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/a-puerta-magica.jpg",
       "days": [
         1,
         2,
         3,
         4,
         5
-      ],
-      "startTime": "06:30",
-      "endTime": "07:00"
-    },
-    {
-      "id": "cantata-nuevo-dia-dom-mat",
-      "name": "Cantata para un Nuevo Día",
-      "description": "Cantata para un nuevo día",
-      "host": "Damarys Florián",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/cantata-nuevo-dia.jpg",
-      "days": [
-        7
       ],
       "startTime": "06:30",
       "endTime": "07:00"
@@ -116,9 +104,10 @@
       "name": "La Puerta Mágica",
       "description": "La Puerta Mágica - sábado",
       "host": "Adriana Cervantes",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/la-puerta-magica-sab.jpg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/la-puerta-magica.jpg",
       "days": [
-        6
+        6,
+        7
       ],
       "startTime": "07:30",
       "endTime": "08:00"
@@ -133,7 +122,7 @@
         6
       ],
       "startTime": "08:00",
-      "endTime": "08:30"
+      "endTime": "09:00"
     },
     {
       "id": "senderos-vida",
@@ -145,7 +134,7 @@
         7
       ],
       "startTime": "08:00",
-      "endTime": "08:30"
+      "endTime": "09:00"
     },
     {
       "id": "mananera-michoacan",
@@ -169,7 +158,7 @@
         6
       ],
       "startTime": "09:00",
-      "endTime": "09:30"
+      "endTime": "10:00"
     },
     {
       "id": "con-su-permiso",
@@ -183,7 +172,7 @@
         5
       ],
       "startTime": "10:00",
-      "endTime": "10:30"
+      "endTime": "11:00"
     },
     {
       "id": "una-historia-una-cancion",
@@ -195,7 +184,7 @@
         2
       ],
       "startTime": "10:00",
-      "endTime": "10:30"
+      "endTime": "11:00"
     },
     {
       "id": "variaciones-yazmin",
@@ -207,7 +196,7 @@
         4
       ],
       "startTime": "10:00",
-      "endTime": "10:30"
+      "endTime": "11:00"
     },
     {
       "id": "el-estanquillo-mat",
@@ -294,7 +283,7 @@
         6
       ],
       "startTime": "12:00",
-      "endTime": "13:00"
+      "endTime": "14:00"
     },
     {
       "id": "noticiario-enterate",
@@ -321,7 +310,7 @@
       "days": [
         1
       ],
-      "startTime": "13:05",
+      "startTime": "13:00",
       "endTime": "14:00"
     },
     {
@@ -334,7 +323,7 @@
         3,
         5
       ],
-      "startTime": "13:05",
+      "startTime": "13:00",
       "endTime": "14:00"
     },
     {
@@ -388,11 +377,10 @@
       "host": "Gustavo Ogarrio",
       "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/lugares-comunes.jpg",
       "days": [
-        6,
-        7
+        6
       ],
       "startTime": "15:00",
-      "endTime": "16:30"
+      "endTime": "17:00"
     },
     {
       "id": "carpe-diem-vespertino",
@@ -505,7 +493,7 @@
         4
       ],
       "startTime": "17:00",
-      "endTime": "17:30"
+      "endTime": "18:00"
     },
     {
       "id": "el-estanquillo-vesp",
@@ -517,7 +505,7 @@
         3
       ],
       "startTime": "17:00",
-      "endTime": "17:30"
+      "endTime": "18:00"
     },
     {
       "id": "Pastel-roberto",
@@ -528,8 +516,8 @@
       "days": [
         6
       ],
-      "startTime": "17:30",
-      "endTime": "18:00"
+      "startTime": "17:00",
+      "endTime": "19:00"
     },
     {
       "id": "circulo-crianza",
@@ -541,7 +529,7 @@
         1
       ],
       "startTime": "18:00",
-      "endTime": "18:30"
+      "endTime": "19:00"
     },
     {
       "id": "icti",
@@ -565,7 +553,7 @@
         3
       ],
       "startTime": "18:00",
-      "endTime": "18:30"
+      "endTime": "19:00"
     },
     {
       "id": "paralelo-19",
@@ -584,12 +572,12 @@
       "name": "Pastel",
       "description": "Pastel con Roberto Castro (Repetición)",
       "host": "Roberto Castro (Repetición)",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/pastel-roberto-rep.jpg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/pastel-roberto.jpg",
       "days": [
         7
       ],
       "startTime": "18:00",
-      "endTime": "19:00"
+      "endTime": "20:00"
     },
     {
       "id": "recargado-2-0",
@@ -599,22 +587,10 @@
       "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/recargado-2-0.jpg",
       "days": [
         1,
-        5
+        3
       ],
-      "startTime": "18:30",
+      "startTime": "19:00",
       "endTime": "20:00"
-    },
-    {
-      "id": "capsula-rtc-10min",
-      "name": "Cápsula RTC 10 MIN",
-      "description": "Cápsula RTC 10 MIN",
-      "host": "",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/capsula-rtc-10min.jpg",
-      "days": [
-        6
-      ],
-      "startTime": "18:30",
-      "endTime": "18:40"
     },
     {
       "id": "fusion-repeticion",
@@ -650,7 +626,7 @@
         3
       ],
       "startTime": "20:00",
-      "endTime": "21:00"
+      "endTime": "22:00"
     },
     {
       "id": "nocturnia",
@@ -669,7 +645,7 @@
       "name": "Variaciones (Repetición)",
       "description": "Variaciones (Repetición) con Yazmín David",
       "host": "Yazmín David",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/variaciones-repeticion.jpg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/variaciones.jpg",
       "days": [
         7
       ],
@@ -681,12 +657,12 @@
       "name": "Una Historia Una Canción (Repetición)",
       "description": "Una Historia Una Canción (Repetición)",
       "host": "",
-      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/una-historia-cancion-rep.jpg",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/una-historia-cancion.jpg",
       "days": [
         4
       ],
       "startTime": "21:00",
-      "endTime": "21:30"
+      "endTime": "22:00"
     },
     {
       "id": "el-muladar",
@@ -697,8 +673,8 @@
       "days": [
         5
       ],
-      "startTime": "21:30",
-      "endTime": "22:00"
+      "startTime": "21:00",
+      "endTime": "23:00"
     },
     {
       "id": "historia-resistencia",
@@ -743,11 +719,10 @@
       "host": "Sonia León",
       "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/pulso-106-9.jpg",
       "days": [
-        4,
-        6
+        4
       ],
       "startTime": "22:00",
-      "endTime": "22:30"
+      "endTime": "23:00"
     },
     {
       "id": "hora-nacional",
@@ -759,7 +734,7 @@
         7
       ],
       "startTime": "22:00",
-      "endTime": "23:00"
+      "endTime": "22:30"
     },
     {
       "id": "musica-resistencia",
@@ -782,8 +757,73 @@
       "days": [
         7
       ],
-      "startTime": "23:00",
-      "endTime": "23:30"
+      "startTime": "22:30",
+      "endTime": "23:00"
+    },
+    {
+      "id": "lugares-comunes-domingo",
+      "name": "Lugares Comunes Domingo",
+      "description": "Lugares Comunes con Gustavo Ogarrio",
+      "host": "Gustavo Ogarrio",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/lugares-comunes.jpg",
+      "days": [
+        7
+      ],
+      "startTime": "14:00",
+      "endTime": "16:00"
+    },
+    {
+      "id": "pulso-106-9-sabado",
+      "name": "Pulso 106.9 Sabado",
+      "description": "Pulso 106.9 con Sonia León",
+      "host": "Sonia León",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/pulso-106-9.jpg",
+      "days": [
+        6
+      ],
+      "startTime": "21:00",
+      "endTime": "22:00"
+    },
+    {
+      "id": "recargado-2-0-2-horas",
+      "name": "Recargado 2.0 2 horas",
+      "description": "Recargado 2.0 con Adriana Cervantes",
+      "host": "Adriana Cervantes",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/recargado-2-0.jpg",
+      "days": [
+        5
+      ],
+      "startTime": "18:00",
+      "endTime": "20:00"
+    },
+    {
+      "id": "cantata-para-un-nuevo-dia-finde",
+      "name": "Cantata para un Nuevo Día",
+      "description": "Cantata para un Nuevo Día con Damarys Florián",
+      "host": "Damarys Florián",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/cantata-para-un-nuevo-dia.jpg",
+      "days": [
+        6,
+        7
+      ],
+      "startTime": "06:30",
+      "endTime": "07:00"
+    },
+    {
+      "id": "tu-espacio-musical",
+      "name": "Tu Espacio Musical",
+      "description": "Tu espacio musical ",
+      "host": "Oswaldo García y Jessica Dominguez",
+      "imageURL": "https://cdn.jsdelivr.net/gh/davrodz/smrtv-config@main/assets/programs/tu-espacio-musical.jpg",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "05:00",
+      "endTime": "06:00"
     }
   ],
   "features": {
